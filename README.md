@@ -1,7 +1,7 @@
 # customer-shopping-behavior-analysis
 End-to-end data analytics project analyzing customer shopping behavior using Python, SQL, and Power BI to uncover purchasing patterns, customer segments, and business insights.
 
-Tools Used
+Tools Used: 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 MySQL
 Power BI
